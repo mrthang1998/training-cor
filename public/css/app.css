@@ -1,0 +1,8 @@
+.table-user th {
+    vertical-align: middle;
+}
+.table-user .table-action a, .table-user .table-action form{
+    width: 40px;
+    margin-right: 5px;
+    float: left;
+}
